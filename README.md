@@ -7,6 +7,11 @@ Corgi bot is your newest friendly Discord Bot, here to fill your channel with lo
 
 ### Add Corgi Bot to Your Server
 
+Steps:
+1. Add Corgi Bot to your Server (click the Corgi below)
+2. Type ```Hi Corgi Bot``` to activate your corgi
+3. Further instructions will be provided!
+
 Click the Corgi below to add Corgi Bot to your server!
 
 [![Corgi](/img/2.png)](https://discordapp.com/oauth2/authorize?client_id=817683466568466442&scope=bot&permissions=8)
