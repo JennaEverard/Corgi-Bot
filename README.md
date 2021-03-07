@@ -1,39 +1,17 @@
+
 ## You're CORGIally Invited...
 
-Corgi bot 
+![Corgi](/img/2.png)
 
-You can use the [editor on GitHub](https://github.com/JennaEverard/Corgi-Bot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### What is Corgi Bot?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Corgi bot is your newest friendly Discord Bot, here to fill your channel with love, joy, and science! Add Corgi bot to **your** channel today to enjoy its clever quips and its supply of memes. What's most important, though, is that **you** can adopt **your own Corgi!**. After earning enough money by correctly answering Corgi Bot's science quiz questions, you can adopt your very own corgi and even buy and sell accessories! So what are you waiting for? Download Corgi Bot today!
 
-### Markdown
+### Add Corgi Bot to Your Server
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Developer Information
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[Link](url) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JennaEverard/Corgi-Bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
