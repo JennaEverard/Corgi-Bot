@@ -140,7 +140,7 @@ client.on('message', async msg => {
                                 msg.channel.send(q).then(async () => {
                                 msg.channel.awaitMessages(filter, {max: 1, time: 30000, errors: ['time'] })
                                         .then(async collected => {
-                                                if(collected.first().content.toLowerCase() == a)
+                                                if(collected.first().content.toLowerCase() == a.toLowerCase())
                                                 {
                                                         var money_gained = Math.floor(Math.random() * 10) + 1;
                                                         if (msg.content.includes('iofg7981h2hkjhic0s90qijoln'))
