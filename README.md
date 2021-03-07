@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## You're CORGIally Invited...
+
+Corgi bot 
 
 You can use the [editor on GitHub](https://github.com/JennaEverard/Corgi-Bot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
